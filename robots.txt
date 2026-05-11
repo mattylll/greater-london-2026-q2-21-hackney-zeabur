@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://greater-london-2026-q2-21-hackney-zeabur.zeabur.app/sitemap.xml
+Sitemap: https://greater-london-2026-q2-21-hack.zeabur.app/sitemap.xml
